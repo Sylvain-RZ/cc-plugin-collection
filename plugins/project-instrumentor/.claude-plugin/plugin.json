@@ -1,20 +1,8 @@
 {
   "name": "project-instrumentor",
-  "version": "0.1.0",
-  "description": "Advanced project instrumentation for Claude Code - generate and manage CLAUDE.md, rules, commands, agents, skills, and output styles",
+  "description": "Advanced project instrumentation - generate CLAUDE.md, rules, commands, agents, skills, and output styles",
   "author": {
     "name": "Sylvain-RZ",
     "url": "https://github.com/Sylvain-RZ"
-  },
-  "repository": "https://github.com/Sylvain-RZ/cc-plugin-collection.git",
-  "homepage": "https://github.com/Sylvain-RZ/cc-plugin-collection/tree/main/plugins/project-instrumentor",
-  "keywords": [
-    "instrumentation",
-    "context",
-    "claude-md",
-    "rules",
-    "project-setup",
-    "configuration"
-  ],
-  "license": "MIT"
+  }
 }

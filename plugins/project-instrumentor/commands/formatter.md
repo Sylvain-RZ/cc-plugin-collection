@@ -1,7 +1,7 @@
 ---
 description: Add a PostToolUse hook for automatic code formatting
 argument-hint: [type]
-allowed-tools: Read, Write, Edit, Bash, Glob, AskUserQuestion
+allowed-tools: ["Read", "Write", "Edit", "Bash", "Glob", "AskUserQuestion"]
 ---
 
 # Configure Formatter Hook

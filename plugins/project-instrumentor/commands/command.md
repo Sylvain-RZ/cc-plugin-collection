@@ -1,7 +1,7 @@
 ---
 description: Create a custom slash command in .claude/commands/
 argument-hint: [name]
-allowed-tools: Read, Write, Glob, AskUserQuestion
+allowed-tools: ["Read", "Write", "Glob", "AskUserQuestion"]
 ---
 
 # Create Custom Command

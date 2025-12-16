@@ -1,6 +1,6 @@
 ---
 description: Initialize complete Claude Code instrumentation for a project with interactive analysis and configuration
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash, AskUserQuestion, Task
+allowed-tools: ["Read", "Write", "Edit", "Glob", "Grep", "Bash", "AskUserQuestion", "Task"]
 ---
 
 # Initialize Project Instrumentation

@@ -1,7 +1,7 @@
 ---
 description: Create a modular rule file in .claude/rules/ with optional path-specific targeting
 argument-hint: [name] [paths]
-allowed-tools: Read, Write, Glob, AskUserQuestion
+allowed-tools: ["Read", "Write", "Glob", "AskUserQuestion"]
 ---
 
 # Create Modular Rule

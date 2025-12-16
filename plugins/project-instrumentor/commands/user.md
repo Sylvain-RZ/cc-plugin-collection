@@ -1,7 +1,7 @@
 ---
 description: Manage user-level Claude Code configuration (only on explicit request)
 argument-hint: [component]
-allowed-tools: Read, Write, Edit, Glob, Bash, AskUserQuestion
+allowed-tools: ["Read", "Write", "Edit", "Glob", "Bash", "AskUserQuestion"]
 ---
 
 # Manage User-Level Configuration
