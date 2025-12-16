@@ -1,4 +1,5 @@
 ---
+name: agent
 description: Create a project agent in .claude/agents/ for autonomous task execution
 argument-hint: [name]
 allowed-tools: Read, Write, Glob, AskUserQuestion, Task

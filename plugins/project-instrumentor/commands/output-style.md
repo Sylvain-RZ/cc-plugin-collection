@@ -1,4 +1,5 @@
 ---
+name: output-style
 description: Create a custom output style in .claude/output-styles/ to modify Claude's response behavior
 argument-hint: [name]
 allowed-tools: Read, Write, Glob, AskUserQuestion
