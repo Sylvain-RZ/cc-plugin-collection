@@ -1,0 +1,31 @@
+# Claude Code local files
+CLAUDE.local.md
+*.local.md
+*.local.json
+.claude/settings.local.json
+.claude/*.local.md
+
+# Plugin local settings (all plugins)
+plugins/**/*.local.md
+plugins/**/*.local.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node.js (if using npm scripts for testing)
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

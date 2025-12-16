@@ -1,0 +1,18 @@
+{
+  "name": "cc-plugin-collection",
+  "version": "1.0.0",
+  "description": "Curated collection of plugins for Claude Code",
+  "owner": {
+    "name": "Sylvain-RZ",
+    "url": "https://github.com/Sylvain-RZ"
+  },
+  "plugins": [
+    {
+      "name": "project-instrumentor",
+      "description": "Advanced project instrumentation - generate CLAUDE.md, rules, commands, agents, skills, and output styles",
+      "source": "./plugins/project-instrumentor",
+      "category": "productivity",
+      "tags": ["instrumentation", "context", "claude-md", "rules", "project-setup"]
+    }
+  ]
+}
