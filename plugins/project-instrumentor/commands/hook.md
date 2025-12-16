@@ -1,5 +1,4 @@
 ---
-name: hook
 description: Create or configure hooks in .claude/settings.json for event-driven automation
 argument-hint: [event] [matcher]
 allowed-tools: Read, Write, Edit, Bash, AskUserQuestion

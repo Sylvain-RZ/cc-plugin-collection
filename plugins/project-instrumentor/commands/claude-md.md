@@ -1,5 +1,4 @@
 ---
-name: claude-md
 description: Generate or update CLAUDE.md for the project root or a specific subdirectory
 argument-hint: [path]
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash, AskUserQuestion

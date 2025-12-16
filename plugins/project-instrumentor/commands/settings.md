@@ -1,5 +1,4 @@
 ---
-name: settings
 description: Configure project settings.json with permissions, hooks, and preferences
 allowed-tools: Read, Write, Edit, AskUserQuestion
 ---

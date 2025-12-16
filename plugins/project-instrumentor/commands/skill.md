@@ -1,5 +1,4 @@
 ---
-name: skill
 description: Create a project skill in .claude/skills/ for domain-specific knowledge
 argument-hint: [name]
 allowed-tools: Read, Write, Glob, Bash, AskUserQuestion
