@@ -15,12 +15,12 @@ Generate a new slash command file in `.claude/commands/`.
 ## Examples
 
 ```
-/project-instrumentor:command deploy
+/project-instrumentor:commands deploy
 ```
 Creates `.claude/commands/deploy.md`.
 
 ```
-/project-instrumentor:command
+/project-instrumentor:commands
 ```
 Interactive mode - asks about command purpose.
 

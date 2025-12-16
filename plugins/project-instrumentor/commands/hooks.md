@@ -16,12 +16,12 @@ Add event-driven hooks to `.claude/settings.json`.
 ## Examples
 
 ```
-/project-instrumentor:hook PostToolUse Write(*.ts)
+/project-instrumentor:hooks PostToolUse Write(*.ts)
 ```
 Adds a PostToolUse hook for TypeScript files.
 
 ```
-/project-instrumentor:hook
+/project-instrumentor:hooks
 ```
 Interactive mode - guided hook creation.
 

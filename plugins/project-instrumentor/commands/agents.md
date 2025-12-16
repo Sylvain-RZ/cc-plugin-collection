@@ -15,12 +15,12 @@ Generate a new agent file in `.claude/agents/`.
 ## Examples
 
 ```
-/project-instrumentor:agent code-reviewer
+/project-instrumentor:agents code-reviewer
 ```
 Creates `.claude/agents/code-reviewer.md`.
 
 ```
-/project-instrumentor:agent
+/project-instrumentor:agents
 ```
 Interactive mode - guided agent creation.
 

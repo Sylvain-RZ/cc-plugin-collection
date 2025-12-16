@@ -15,12 +15,12 @@ Generate a new skill in `.claude/skills/`.
 ## Examples
 
 ```
-/project-instrumentor:skill database-patterns
+/project-instrumentor:skills database-patterns
 ```
 Creates `.claude/skills/database-patterns/SKILL.md`.
 
 ```
-/project-instrumentor:skill
+/project-instrumentor:skills
 ```
 Interactive mode - guided skill creation.
 
