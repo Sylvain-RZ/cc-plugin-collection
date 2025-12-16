@@ -16,8 +16,5 @@
     "project-setup",
     "configuration"
   ],
-  "license": "MIT",
-  "commands": "./commands/",
-  "agents": "./agents/",
-  "skills": "./skills/"
+  "license": "MIT"
 }
